@@ -4,10 +4,13 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     "hash": "0c8d782e31713419712f8e0f4f4e5266",
 =======
 >>>>>>> master
+=======
+>>>>>>> Stashed changes
     "content-hash": "8f2120fa77d42a42b4210cdbe1c114e2",
     "packages": [
         {
@@ -41,11 +44,15 @@
                 "MIT"
             ],
             "description": "implementation of xdg base directory specification for php",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2014-10-24 07:27:01"
 =======
             "time": "2014-10-24T07:27:01+00:00"
 >>>>>>> master
+=======
+            "time": "2014-10-24T07:27:01+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "doctrine/inflector",
@@ -112,11 +119,15 @@
                 "singularize",
                 "string"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-07-22 12:18:28"
 =======
             "time": "2017-07-22T12:18:28+00:00"
 >>>>>>> master
+=======
+            "time": "2017-07-22T12:18:28+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "doctrine/lexer",
@@ -170,11 +181,15 @@
                 "lexer",
                 "parser"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2014-09-09 13:34:57"
 =======
             "time": "2014-09-09T13:34:57+00:00"
 >>>>>>> master
+=======
+            "time": "2014-09-09T13:34:57+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "egulias/email-validator",
@@ -231,11 +246,15 @@
                 "validation",
                 "validator"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-01-30 22:07:36"
 =======
             "time": "2017-01-30T22:07:36+00:00"
 >>>>>>> master
+=======
+            "time": "2017-01-30T22:07:36+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "erusev/parsedown",
@@ -277,11 +296,15 @@
                 "markdown",
                 "parser"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-05-14 14:47:48"
 =======
             "time": "2017-05-14T14:47:48+00:00"
 >>>>>>> master
+=======
+            "time": "2017-05-14T14:47:48+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "fideloper/proxy",
@@ -338,11 +361,15 @@
                 "proxy",
                 "trusted proxy"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-06-15 17:19:42"
 =======
             "time": "2017-06-15T17:19:42+00:00"
 >>>>>>> master
+=======
+            "time": "2017-06-15T17:19:42+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "jakub-onderka/php-console-color",
@@ -385,11 +412,15 @@
                     "homepage": "http://www.acci.cz"
                 }
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2014-04-08 15:00:19"
 =======
             "time": "2014-04-08T15:00:19+00:00"
 >>>>>>> master
+=======
+            "time": "2014-04-08T15:00:19+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "jakub-onderka/php-console-highlighter",
@@ -433,11 +464,15 @@
                     "homepage": "http://www.acci.cz/"
                 }
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2015-04-20 18:58:01"
 =======
             "time": "2015-04-20T18:58:01+00:00"
 >>>>>>> master
+=======
+            "time": "2015-04-20T18:58:01+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "laravel/framework",
@@ -569,11 +604,15 @@
                 "framework",
                 "laravel"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-03 17:41:03"
 =======
             "time": "2017-10-03T17:41:03+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-03T17:41:03+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "laravel/tinker",
@@ -636,11 +675,15 @@
                 "laravel",
                 "psysh"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-07-13 13:11:05"
 =======
             "time": "2017-07-13T13:11:05+00:00"
 >>>>>>> master
+=======
+            "time": "2017-07-13T13:11:05+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "league/flysystem",
@@ -723,11 +766,15 @@
                 "sftp",
                 "storage"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-08-06 17:41:04"
 =======
             "time": "2017-08-06T17:41:04+00:00"
 >>>>>>> master
+=======
+            "time": "2017-08-06T17:41:04+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "monolog/monolog",
@@ -805,11 +852,15 @@
                 "logging",
                 "psr-3"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-06-19 01:22:40"
 =======
             "time": "2017-06-19T01:22:40+00:00"
 >>>>>>> master
+=======
+            "time": "2017-06-19T01:22:40+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "mtdowling/cron-expression",
@@ -853,11 +904,15 @@
                 "cron",
                 "schedule"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-01-23 04:29:33"
 =======
             "time": "2017-01-23T04:29:33+00:00"
 >>>>>>> master
+=======
+            "time": "2017-01-23T04:29:33+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "nesbot/carbon",
@@ -910,11 +965,15 @@
                 "datetime",
                 "time"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-01-16 07:55:07"
 =======
             "time": "2017-01-16T07:55:07+00:00"
 >>>>>>> master
+=======
+            "time": "2017-01-16T07:55:07+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "nikic/php-parser",
@@ -965,11 +1024,15 @@
                 "parser",
                 "php"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-09-02 17:10:46"
 =======
             "time": "2017-09-02T17:10:46+00:00"
 >>>>>>> master
+=======
+            "time": "2017-09-02T17:10:46+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "paragonie/random_compat",
@@ -1017,11 +1080,15 @@
                 "pseudorandom",
                 "random"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-09-27 21:40:39"
 =======
             "time": "2017-09-27T21:40:39+00:00"
 >>>>>>> master
+=======
+            "time": "2017-09-27T21:40:39+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "psr/container",
@@ -1070,11 +1137,15 @@
                 "container-interop",
                 "psr"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-02-14 16:28:37"
 =======
             "time": "2017-02-14T16:28:37+00:00"
 >>>>>>> master
+=======
+            "time": "2017-02-14T16:28:37+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "psr/log",
@@ -1121,11 +1192,15 @@
                 "psr",
                 "psr-3"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2016-10-10 12:19:37"
 =======
             "time": "2016-10-10T12:19:37+00:00"
 >>>>>>> master
+=======
+            "time": "2016-10-10T12:19:37+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "psr/simple-cache",
@@ -1173,11 +1248,15 @@
                 "psr-16",
                 "simple-cache"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-01-02 13:31:39"
 =======
             "time": "2017-01-02T13:31:39+00:00"
 >>>>>>> master
+=======
+            "time": "2017-01-02T13:31:39+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "psy/psysh",
@@ -1250,11 +1329,15 @@
                 "interactive",
                 "shell"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-07-29 19:30:02"
 =======
             "time": "2017-07-29T19:30:02+00:00"
 >>>>>>> master
+=======
+            "time": "2017-07-29T19:30:02+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "ramsey/uuid",
@@ -1336,11 +1419,15 @@
                 "identifier",
                 "uuid"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-09-22 20:46:04"
 =======
             "time": "2017-09-22T20:46:04+00:00"
 >>>>>>> master
+=======
+            "time": "2017-09-22T20:46:04+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1395,11 +1482,15 @@
                 "mail",
                 "mailer"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-09-30 22:39:41"
 =======
             "time": "2017-09-30T22:39:41+00:00"
 >>>>>>> master
+=======
+            "time": "2017-09-30T22:39:41+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "symfony/console",
@@ -1467,11 +1558,15 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-02 06:42:24"
 =======
             "time": "2017-10-02T06:42:24+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-02T06:42:24+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "symfony/css-selector",
@@ -1524,11 +1619,15 @@
             ],
             "description": "Symfony CssSelector Component",
             "homepage": "https://symfony.com",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-02 06:42:24"
 =======
             "time": "2017-10-02T06:42:24+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-02T06:42:24+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "symfony/debug",
@@ -1584,11 +1683,15 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-02 06:42:24"
 =======
             "time": "2017-10-02T06:42:24+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-02T06:42:24+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "symfony/event-dispatcher",
@@ -1651,11 +1754,15 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-02 06:42:24"
 =======
             "time": "2017-10-02T06:42:24+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-02T06:42:24+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "symfony/finder",
@@ -1704,11 +1811,15 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-02 06:42:24"
 =======
             "time": "2017-10-02T06:42:24+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-02T06:42:24+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "symfony/http-foundation",
@@ -1761,11 +1872,15 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "https://symfony.com",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-05 23:10:23"
 =======
             "time": "2017-10-05T23:10:23+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-05T23:10:23+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "symfony/http-kernel",
@@ -1851,11 +1966,15 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-05 23:40:19"
 =======
             "time": "2017-10-05T23:40:19+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-05T23:40:19+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -1914,11 +2033,15 @@
                 "portable",
                 "shim"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-06-14 15:44:48"
 =======
             "time": "2017-06-14T15:44:48+00:00"
 >>>>>>> master
+=======
+            "time": "2017-06-14T15:44:48+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "symfony/process",
@@ -1967,11 +2090,15 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-02 06:42:24"
 =======
             "time": "2017-10-02T06:42:24+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-02T06:42:24+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "symfony/routing",
@@ -2049,11 +2176,15 @@
                 "uri",
                 "url"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-02 07:25:00"
 =======
             "time": "2017-10-02T07:25:00+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-02T07:25:00+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "symfony/translation",
@@ -2118,11 +2249,15 @@
             ],
             "description": "Symfony Translation Component",
             "homepage": "https://symfony.com",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-02 06:42:24"
 =======
             "time": "2017-10-02T06:42:24+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-02T06:42:24+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "symfony/var-dumper",
@@ -2190,11 +2325,15 @@
                 "debug",
                 "dump"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-02 06:42:24"
 =======
             "time": "2017-10-02T06:42:24+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-02T06:42:24+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -2241,11 +2380,15 @@
             ],
             "description": "CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very useful when you're sending emails.",
             "homepage": "https://github.com/tijsverkoyen/CssToInlineStyles",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2016-09-20 12:50:39"
 =======
             "time": "2016-09-20T12:50:39+00:00"
 >>>>>>> master
+=======
+            "time": "2016-09-20T12:50:39+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "vlucas/phpdotenv",
@@ -2295,11 +2438,15 @@
                 "env",
                 "environment"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2016-09-01 10:05:43"
 =======
             "time": "2016-09-01T10:05:43+00:00"
 >>>>>>> master
+=======
+            "time": "2016-09-01T10:05:43+00:00"
+>>>>>>> Stashed changes
         }
     ],
     "packages-dev": [
@@ -2355,11 +2502,15 @@
                 "constructor",
                 "instantiate"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-07-22 11:58:36"
 =======
             "time": "2017-07-22T11:58:36+00:00"
 >>>>>>> master
+=======
+            "time": "2017-07-22T11:58:36+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "filp/whoops",
@@ -2420,11 +2571,15 @@
                 "whoops",
                 "zf2"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-08-03 18:23:40"
 =======
             "time": "2017-08-03T18:23:40+00:00"
 >>>>>>> master
+=======
+            "time": "2017-08-03T18:23:40+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "fzaninotto/faker",
@@ -2474,11 +2629,15 @@
                 "faker",
                 "fixtures"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-08-15 16:48:10"
 =======
             "time": "2017-08-15T16:48:10+00:00"
 >>>>>>> master
+=======
+            "time": "2017-08-15T16:48:10+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "hamcrest/hamcrest-php",
@@ -2523,11 +2682,15 @@
             "keywords": [
                 "test"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2015-05-11 14:41:42"
 =======
             "time": "2015-05-11T14:41:42+00:00"
 >>>>>>> master
+=======
+            "time": "2015-05-11T14:41:42+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "mockery/mockery",
@@ -2592,11 +2755,15 @@
                 "test double",
                 "testing"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-02-28 12:52:32"
 =======
             "time": "2017-02-28T12:52:32+00:00"
 >>>>>>> master
+=======
+            "time": "2017-02-28T12:52:32+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "myclabs/deep-copy",
@@ -2638,11 +2805,15 @@
                 "object",
                 "object graph"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-04-12 18:52:22"
 =======
             "time": "2017-04-12T18:52:22+00:00"
 >>>>>>> master
+=======
+            "time": "2017-04-12T18:52:22+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phar-io/manifest",
@@ -2697,11 +2868,15 @@
                 }
             ],
             "description": "Component for reading phar.io manifest information from a PHP Archive (PHAR)",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-03-05 18:14:27"
 =======
             "time": "2017-03-05T18:14:27+00:00"
 >>>>>>> master
+=======
+            "time": "2017-03-05T18:14:27+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phar-io/version",
@@ -2748,11 +2923,15 @@
                 }
             ],
             "description": "Library for handling version information and constraints",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-03-05 17:38:23"
 =======
             "time": "2017-03-05T17:38:23+00:00"
 >>>>>>> master
+=======
+            "time": "2017-03-05T17:38:23+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phpdocumentor/reflection-common",
@@ -2806,11 +2985,15 @@
                 "reflection",
                 "static analysis"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-09-11 18:02:19"
 =======
             "time": "2017-09-11T18:02:19+00:00"
 >>>>>>> master
+=======
+            "time": "2017-09-11T18:02:19+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phpdocumentor/reflection-docblock",
@@ -2855,11 +3038,15 @@
                 }
             ],
             "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock.",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-08-30 18:51:59"
 =======
             "time": "2017-08-30T18:51:59+00:00"
 >>>>>>> master
+=======
+            "time": "2017-08-30T18:51:59+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phpdocumentor/type-resolver",
@@ -2906,11 +3093,15 @@
                     "email": "me@mikevanriel.com"
                 }
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-07-14 14:27:02"
 =======
             "time": "2017-07-14T14:27:02+00:00"
 >>>>>>> master
+=======
+            "time": "2017-07-14T14:27:02+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phpspec/prophecy",
@@ -2973,11 +3164,15 @@
                 "spy",
                 "stub"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-09-04 11:05:03"
 =======
             "time": "2017-09-04T11:05:03+00:00"
 >>>>>>> master
+=======
+            "time": "2017-09-04T11:05:03+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -3041,11 +3236,15 @@
                 "testing",
                 "xunit"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-08-03 12:40:43"
 =======
             "time": "2017-08-03T12:40:43+00:00"
 >>>>>>> master
+=======
+            "time": "2017-08-03T12:40:43+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -3092,11 +3291,15 @@
                 "filesystem",
                 "iterator"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2016-10-03 07:40:28"
 =======
             "time": "2016-10-03T07:40:28+00:00"
 >>>>>>> master
+=======
+            "time": "2016-10-03T07:40:28+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phpunit/php-text-template",
@@ -3137,11 +3340,15 @@
             "keywords": [
                 "template"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2015-06-21 13:50:34"
 =======
             "time": "2015-06-21T13:50:34+00:00"
 >>>>>>> master
+=======
+            "time": "2015-06-21T13:50:34+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phpunit/php-timer",
@@ -3190,11 +3397,15 @@
             "keywords": [
                 "timer"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-02-26 11:10:40"
 =======
             "time": "2017-02-26T11:10:40+00:00"
 >>>>>>> master
+=======
+            "time": "2017-02-26T11:10:40+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phpunit/php-token-stream",
@@ -3243,11 +3454,15 @@
             "keywords": [
                 "tokenizer"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-08-20 05:47:52"
 =======
             "time": "2017-08-20T05:47:52+00:00"
 >>>>>>> master
+=======
+            "time": "2017-08-20T05:47:52+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phpunit/phpunit",
@@ -3331,11 +3546,15 @@
                 "testing",
                 "xunit"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-10-07 17:53:53"
 =======
             "time": "2017-10-07T17:53:53+00:00"
 >>>>>>> master
+=======
+            "time": "2017-10-07T17:53:53+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "phpunit/phpunit-mock-objects",
@@ -3394,11 +3613,15 @@
                 "mock",
                 "xunit"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-08-03 14:08:16"
 =======
             "time": "2017-08-03T14:08:16+00:00"
 >>>>>>> master
+=======
+            "time": "2017-08-03T14:08:16+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",
@@ -3443,11 +3666,15 @@
             ],
             "description": "Looks up which function or method a line of code belongs to",
             "homepage": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-03-04 06:30:41"
 =======
             "time": "2017-03-04T06:30:41+00:00"
 >>>>>>> master
+=======
+            "time": "2017-03-04T06:30:41+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "sebastian/comparator",
@@ -3511,11 +3738,15 @@
                 "compare",
                 "equality"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-08-03 07:14:59"
 =======
             "time": "2017-08-03T07:14:59+00:00"
 >>>>>>> master
+=======
+            "time": "2017-08-03T07:14:59+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "sebastian/diff",
@@ -3567,11 +3798,15 @@
             "keywords": [
                 "diff"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-08-03 08:09:46"
 =======
             "time": "2017-08-03T08:09:46+00:00"
 >>>>>>> master
+=======
+            "time": "2017-08-03T08:09:46+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "sebastian/environment",
@@ -3621,11 +3856,15 @@
                 "environment",
                 "hhvm"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-07-01 08:51:00"
 =======
             "time": "2017-07-01T08:51:00+00:00"
 >>>>>>> master
+=======
+            "time": "2017-07-01T08:51:00+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "sebastian/exporter",
@@ -3692,11 +3931,15 @@
                 "export",
                 "exporter"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-04-03 13:19:02"
 =======
             "time": "2017-04-03T13:19:02+00:00"
 >>>>>>> master
+=======
+            "time": "2017-04-03T13:19:02+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "sebastian/global-state",
@@ -3747,11 +3990,15 @@
             "keywords": [
                 "global state"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-04-27 15:39:26"
 =======
             "time": "2017-04-27T15:39:26+00:00"
 >>>>>>> master
+=======
+            "time": "2017-04-27T15:39:26+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "sebastian/object-enumerator",
@@ -3798,11 +4045,15 @@
             ],
             "description": "Traverses array structures and object graphs to enumerate all referenced objects",
             "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-08-03 12:35:26"
 =======
             "time": "2017-08-03T12:35:26+00:00"
 >>>>>>> master
+=======
+            "time": "2017-08-03T12:35:26+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "sebastian/object-reflector",
@@ -3847,11 +4098,15 @@
             ],
             "description": "Allows reflection of object attributes, including inherited and non-public ones",
             "homepage": "https://github.com/sebastianbergmann/object-reflector/",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-03-29 09:07:27"
 =======
             "time": "2017-03-29T09:07:27+00:00"
 >>>>>>> master
+=======
+            "time": "2017-03-29T09:07:27+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "sebastian/recursion-context",
@@ -3904,11 +4159,15 @@
             ],
             "description": "Provides functionality to recursively process PHP variables",
             "homepage": "http://www.github.com/sebastianbergmann/recursion-context",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-03-03 06:23:57"
 =======
             "time": "2017-03-03T06:23:57+00:00"
 >>>>>>> master
+=======
+            "time": "2017-03-03T06:23:57+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "sebastian/resource-operations",
@@ -3950,11 +4209,15 @@
             ],
             "description": "Provides a list of PHP built-in functions that operate on resources",
             "homepage": "https://www.github.com/sebastianbergmann/resource-operations",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2015-07-28 20:34:47"
 =======
             "time": "2015-07-28T20:34:47+00:00"
 >>>>>>> master
+=======
+            "time": "2015-07-28T20:34:47+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "sebastian/version",
@@ -3997,11 +4260,15 @@
             ],
             "description": "Library that helps with managing the version number of Git-hosted PHP projects",
             "homepage": "https://github.com/sebastianbergmann/version",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2016-10-03 07:35:21"
 =======
             "time": "2016-10-03T07:35:21+00:00"
 >>>>>>> master
+=======
+            "time": "2016-10-03T07:35:21+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "theseer/tokenizer",
@@ -4041,11 +4308,15 @@
                 }
             ],
             "description": "A small library for converting tokenized PHP source code into XML and potentially other formats",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2017-04-07 12:08:54"
 =======
             "time": "2017-04-07T12:08:54+00:00"
 >>>>>>> master
+=======
+            "time": "2017-04-07T12:08:54+00:00"
+>>>>>>> Stashed changes
         },
         {
             "name": "webmozart/assert",
@@ -4095,11 +4366,15 @@
                 "check",
                 "validate"
             ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             "time": "2016-11-23 20:04:58"
 =======
             "time": "2016-11-23T20:04:58+00:00"
 >>>>>>> master
+=======
+            "time": "2016-11-23T20:04:58+00:00"
+>>>>>>> Stashed changes
         }
     ],
     "aliases": [],
